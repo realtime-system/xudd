@@ -304,4 +304,3 @@ class HiveProxy(object):
     @property
     def hive_id(self):
         return self._hive.hive_id
-
